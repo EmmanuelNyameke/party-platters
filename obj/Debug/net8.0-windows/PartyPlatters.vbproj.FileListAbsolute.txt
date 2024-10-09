@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\PartyPlatters\bin\Debug\net8.0-windows\PartyPlatters.exe
+C:\Users\HELLO\Source\Repos\PartyPlatters\bin\Debug\net8.0-windows\PartyPlatters.deps.json
+C:\Users\HELLO\Source\Repos\PartyPlatters\bin\Debug\net8.0-windows\PartyPlatters.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\PartyPlatters\bin\Debug\net8.0-windows\PartyPlatters.dll
+C:\Users\HELLO\Source\Repos\PartyPlatters\bin\Debug\net8.0-windows\PartyPlatters.pdb
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\PartyPlatters.frmPlatters.resources
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\PartyPlatters.Resources.resources
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\PartyPlatters.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\PartyPlatters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\PartyPlatters.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\PartyPlatters.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\PartyPlatters.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\PartyPlatters.dll
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\refint\PartyPlatters.dll
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\PartyPlatters.pdb
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\PartyPlatters.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\PartyPlatters\obj\Debug\net8.0-windows\ref\PartyPlatters.dll
